@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  color: #333333;   
+  color: #df9c2b;   
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #c4dce1;                      /*change your Bkg color*/
+  background-color: #000;                      /*change your Bkg color*/
 }
 
 a, a:active, a:visited {
@@ -19,7 +19,7 @@ a, a:active, a:visited {
 
 
 footer {
-  border-top: 1px dotted #999999;
+  border-top: 1px dotted #ffa70d;
   clear: both;
   padding: 1em 0;
 }
@@ -32,8 +32,8 @@ footer p {
 
 header {
   background: #C8C1B7;
-  border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  border-bottom: 1px solid #ffa70d;
+  background-image: url("../img/tiger-eyes.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
@@ -78,7 +78,7 @@ header nav a, header nav a:visited {
   display: block;
   line-height: 60px;
   text-decoration: none;
-  color: #000000;                         /*changes banner text color*/
+  color: #a815b4;                         /*changes banner text color*/
   transition: color 200ms ease-in-out;
 }
 
